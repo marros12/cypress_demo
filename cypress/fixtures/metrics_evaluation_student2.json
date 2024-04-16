@@ -1,0 +1,22 @@
+{
+  "student2 - exercise 0": [
+    {
+      "evaluationPercentage": 67,
+      "buttonClass": "green-bck",
+      "xpPoints": 3000,
+      "difficulty": 1,
+      "denominator": 3000,
+      "numerator": 2010
+    }
+  ],
+  "student2 - exercise 1": [
+    {
+      "evaluationPercentage": 38,
+      "buttonClass": "red-bck",
+      "xpPoints": 6000,
+      "difficulty": 1,
+      "denominator": 6000,
+      "numerator": 2280
+    }
+  ]
+}

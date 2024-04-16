@@ -1,0 +1,96 @@
+[
+  {
+    "student1 - exercise 0": [
+      {
+        "evaluationPercentage": 67,
+        "buttonClass": "green-bck",
+        "xpPoints": 3000,
+        "difficulty": 1,
+        "denominator": 3000,
+        "numerator": 2010
+      }
+    ],
+    "student1 - exercise 1": [
+      {
+        "evaluationPercentage": 27,
+        "buttonClass": "red-bck",
+        "xpPoints": 6000,
+        "difficulty": 1,
+        "denominator": 6000,
+        "numerator": 1620
+      }
+    ],
+    "student1 - exercise 2": [
+      {
+        "evaluationPercentage": 52,
+        "buttonClass": "orange-bck",
+        "xpPoints": 6000,
+        "difficulty": 1,
+        "denominator": 6000,
+        "numerator": 3120
+      }
+    ],
+    "student1 - exercise 3": [
+      {
+        "evaluationPercentage": 60,
+        "buttonClass": "orange-bck",
+        "xpPoints": 6000,
+        "difficulty": 1,
+        "denominator": 6000,
+        "numerator": 3600
+      }
+    ],
+    "student1 - exercise 4": [
+      {
+        "evaluationPercentage": 100,
+        "buttonClass": "green-bck",
+        "xpPoints": 6000,
+        "difficulty": 1,
+        "denominator": 6000,
+        "numerator": 6000
+      }
+    ],
+    "student1 - exercise 5": [
+      {
+        "evaluationPercentage": 0,
+        "buttonClass": "red-bck",
+        "xpPoints": 6000,
+        "difficulty": 1,
+        "denominator": 6000,
+        "numerator": 0
+      }
+    ],
+    "student1 - exercise 6": [
+      {
+        "evaluationPercentage": 13,
+        "buttonClass": "red-bck",
+        "xpPoints": 6000,
+        "difficulty": 1,
+        "denominator": 6000,
+        "numerator": 780
+      }
+    ]
+  },
+  {
+    "student2 - exercise 0": [
+      {
+        "evaluationPercentage": 67,
+        "buttonClass": "green-bck",
+        "xpPoints": 3000,
+        "difficulty": 1,
+        "denominator": 3000,
+        "numerator": 2010
+      }
+    ],
+    "student2 - exercise 1": [
+      {
+        "evaluationPercentage": 38,
+        "buttonClass": "red-bck",
+        "xpPoints": 6000,
+        "difficulty": 1,
+        "denominator": 6000,
+        "numerator": 2280
+      }
+    ]
+  }
+]
